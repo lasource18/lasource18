@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lasource18
 - 👀 I’m interested in web dev, crypto and trading software design
-- 🌱 I’m currently learning MERN, Laravel+Vue, Python & Solidity
+- 🌱 I’m currently learning MERN, Laravel+Vue, C++, Python & Solidity
 - 💞️ I’m looking to collaborate on web apps/websites creation, crypto and trading software projects
 - 📫 How to reach me: lasource18@outlook.com
 
