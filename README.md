@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @lasource18
-- 👀 I’m interested in web dev, crypto and trading software design
-- 🌱 I’m currently learning MERN, Laravel+Vue, C++, Python & Solidity
-- 💞️ I’m looking to collaborate on web apps/websites creation, crypto and trading software projects
-- 📫 How to reach me: lasource18@outlook.com
+- Hi, I’m @lasource18
+- I’m interested in trading systems development for both traditional markets and crypto
+- I’m skilled in Python, Java and Typescript. I'm decent with C++ and Bash
+- I'm also familiar with frameworks like React, Springboot and Flask
+  and dev tools like Docker, Kubernetes
+- I’m open to work on fintech/saas apps, crypto and trading software projects
+- How to reach me: cmguinan@yahoo.fr
 
 <!---
 lasource18/lasource18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
