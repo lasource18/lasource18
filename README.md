@@ -4,7 +4,7 @@
 - I'm also familiar with frameworks like React, Springboot and Flask
   and dev tools like Docker, Kubernetes
 - I’m open to work on fintech/saas apps, crypto and trading software projects
-- How to reach me: cmguinan@yahoo.fr
+- How to reach me: lasource18@outlook.com
 
 <!---
 lasource18/lasource18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
